@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { LogoutButton } from "../(auth)/components/LogoutButton"
+import { LogoutButton } from "./LogoutButton"
 
 export const Navbar = () => {
   return (

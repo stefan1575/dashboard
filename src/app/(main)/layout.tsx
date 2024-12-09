@@ -1,6 +1,6 @@
-import { Sidebar } from "../components/Sidebar"
-import { Navbar } from "../components/Navbar"
-import { FlowbiteInit } from "../components/FlowbiteInit"
+import { Sidebar } from "./components/Sidebar"
+import { Navbar } from "./components/Navbar"
+import { FlowbiteInit } from "./components/FlowbiteInit"
 import { useAuthenticatedBlitzContext } from "../blitz-server"
 
 type MainLayoutProps = {
